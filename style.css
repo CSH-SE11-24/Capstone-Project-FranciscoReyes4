@@ -1,0 +1,14 @@
+/*css  */
+html {
+  height: 100%;
+  width: 100%;
+}
+/* Css to fix up the font and background color */
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: black;
+}
+/*css text align  */
+.a{
+  text-align: center;
+}
